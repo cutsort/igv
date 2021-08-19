@@ -1,0 +1,35 @@
+{
+  "label": "QBB2021",
+  "description": "Example data",
+  "link": "http://bxlab.github.io/cmdb-bootcamp",
+  "tracks": [
+    {
+      "name": "K4me3.bed",
+      "url": "https://cutsort.github.io/igv/data/K4me3.bed",
+      "type": "annotation",
+      "format": "bed",
+      "visibilityWindow": 10000000
+    },
+    {
+      "name": "K9me3.bed",
+      "url": "https://cutsort.github.io/igv/data/K9me3.bed",
+      "type": "annotation",
+      "format": "bed",
+      "visibilityWindow": 10000000
+    },
+    {
+      "name": "K27me3.bed",
+      "url": "https://cutsort.github.io/igv/data/K27me3.bed",
+      "type": "annotation",
+      "format": "bed",
+      "visibilityWindow": 10000000
+    },
+    {
+      "name": "genes.bed",
+      "url": "https://cutsort.github.io/igv/data/genes.bed",
+      "type": "annotation",
+      "format": "bed",
+      "visibilityWindow": 10000000
+    }
+  ]
+}

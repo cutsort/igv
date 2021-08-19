@@ -30,7 +30,8 @@
   ],
   "dm6": [
     "resources/tracks/dm6_annotations.json",
-    "resources/tracks/dm6_encode.json"
+    "resources/tracks/dm6_encode.json",
+    "resources/tracks/dm6_qbb2021.json"
   ],
   "ce11": [
     "resources/tracks/ce11_annotations.json"
