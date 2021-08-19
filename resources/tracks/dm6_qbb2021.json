@@ -30,6 +30,13 @@
       "type": "annotation",
       "format": "bed",
       "visibilityWindow": 10000000
+    },
+    {
+      "name": "SRR072893.bam",
+      "url": "https://bx.bio.jhu.edu/track-hubs/cmdb/SRR072893.bam",
+      "indexURL": "https://cutsort.github.io/igv/data/SRR072893.bam.bai",
+      "type": "alignment",
+      "format": "bam"
     }
   ]
 }
